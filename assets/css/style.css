@@ -1,5 +1,122 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700 | Exo:100,200,300,400,500,,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:100,200,300,400,500,600,700|Khula:100,200,300,400,500,600,700');
 
+
+
+
+/*---------------------------------------Heading and Navbar*/
+
+.header {
+ margin: 0;
+}
+
+.display-4 {
+ margin-left: 70px;
+ margin-top: 5px;
+}
+
+.Headline {
+ margin-left: 70px;
+ margin-bottom: 15px;
+}
+
+
+
+/*---------------------------------------Hero Image and Text on imager*/
+
+.hero-image {
+ background: url("../images/Ioannis.jpeg");
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ min-height: 780px;
+ transition: all .5s ease-in-out;
+ -moz-transition: all .5s ease-in-out;
+ -webkit-transition: all .5s ease-in-out;
+}
+
+.bg-white {
+opacity: 0.8;
+height: 260px;
+margin-top: 40%;
+margin: 0;
+}
+
+.storyteller-moto2 {
+ font-size: 28px;
+ text-align: center;
+ margin-top: 40%;
+}
+
+
+/*---------------------------------------Projects */
+
+.projects-title {
+height: 280px;
+text-align: center;
+margin-top: 3%;
+margin-bottom: 15px;
+}
+
+
+
+/*---------------------------------------Footer */
+
+footer {
+    background-color: #fff;
+    color: #000;
+    min-height: 120px;
+    margin:20px;
+    text-align: center;
+
+    
+}
+
+.cv-pdf i {
+    font-size: 18px;
+    color: #fafafa;
+    text-align: center;
+    padding-left: 5px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.cv-pdf i:hover {
+    color: #e84610;
+}
+
+.social-links {
+    padding-bottom: 15px;
+
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background-color: #e84610;;
+}
+
+#footer-details {
+    padding: 20px;
+}
+
+
+/*--------------------------------------UNDER THIS LINE WHATEVER YOU WILL NOT UES YOU MUST ERASE!! */
 
 /*---------------------------------------Colours */
 .bg-color-name-title {
@@ -79,27 +196,7 @@ text-transform: uppercase;
     margin-bottom: 40px;
 }
 
-/*---------------------------------------Heading */
 
-header {
-margin: 0;
-
-}
-
-.heading {
-    margin-left: 50px;
-}
-
-.logo {
-    background: url("../images/rosie.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 360px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-}
 
 .name {
     font-family: "Exo", sans-serif;
@@ -176,60 +273,6 @@ background-color: rgba(0, 0, 0, 0.2);
 height: 120px;
 }
 
-
-/*---------------------------------------Footer */
-
-footer {
-    background-color: #525252;
-    color: #fafafa;
-    min-height: 120px;
-    margin: 0;
-    
-}
-
-.cv-pdf i {
-    font-size: 18px;
-    color: #fafafa;
-    text-align: center;
-    padding-left: 5px;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-}
-
-.cv-pdf i:hover {
-    color: #e84610;
-}
-
-.social-links {
-    padding-bottom: 15px;
-
-}
-
-.social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 12px 0;
-    border-radius: 50%;
-    font-size: 13px;
-    line-height: 7px;
-    text-align: center;
-    color: #fafafa;
-    background: #8f8f8f;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-}
-
-.social-links li a i:hover {
-    background-color: #e84610;;
-}
-
-#footer-details {
-    padding: 20px;
-}
 
 /*---------------------------------------Three Reasons */
 

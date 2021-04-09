@@ -54,7 +54,12 @@ margin-top: 40%;
 height: 280px;
 text-align: center;
 margin-top: 10px;
-margin-bottom: 15px;
+margin-bottom: 20px;
+}
+
+.bg-white3 {
+margin-top: 80px;
+margin-bottom: 20px;
 }
 
 .container {
@@ -70,6 +75,12 @@ margin-top: 50px;
 margin-bottom: 55px;
 }
 
+.vittoria {
+    height: 240px;
+    width: 240px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
 
 /*---------------------------------------Footer */
 

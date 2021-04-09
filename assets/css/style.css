@@ -6,7 +6,7 @@
 /*---------------------------------------Heading and Navbar*/
 
 .header {
- margin: 0;
+ margin-left: 70px;
 }
 
 .display-4 {
@@ -24,11 +24,12 @@
 /*---------------------------------------Hero Image and Text on imager*/
 
 .hero-image {
- background: url("../images/Ioannis.jpeg");
+ background: url("../images/ioannis.png");
  background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
  min-height: 780px;
+ width: fit-content;
  transition: all .5s ease-in-out;
  -moz-transition: all .5s ease-in-out;
  -webkit-transition: all .5s ease-in-out;
@@ -36,15 +37,14 @@
 
 .bg-white {
 opacity: 0.8;
-height: 260px;
+height: 280px;
 margin-top: 40%;
-margin: 0;
 }
 
 .storyteller-moto2 {
  font-size: 28px;
  text-align: center;
- margin-top: 40%;
+ margin-top: 5%;
 }
 
 
@@ -53,10 +53,22 @@ margin: 0;
 .projects-title {
 height: 280px;
 text-align: center;
-margin-top: 3%;
+margin-top: 10px;
 margin-bottom: 15px;
 }
 
+.container {
+    position: relative;
+    text-align: center;
+    font-size: 24px;
+}
+
+/*---------------------------------------Project section - IMAGES */
+
+.soros {
+margin-top: 50px;
+margin-bottom: 55px;
+}
 
 
 /*---------------------------------------Footer */
@@ -71,6 +83,9 @@ footer {
     
 }
 
+/*--------------------------------------UNDER THIS LINE WHATEVER YOU WILL NOT UES YOU MUST ERASE!! */
+
+/*
 .cv-pdf i {
     font-size: 18px;
     color: #fafafa;
@@ -118,7 +133,7 @@ footer {
 
 /*--------------------------------------UNDER THIS LINE WHATEVER YOU WILL NOT UES YOU MUST ERASE!! */
 
-/*---------------------------------------Colours */
+/*---------------------------------------Colours /
 .bg-color-name-title {
     background-color: #676767;
 }
@@ -156,7 +171,7 @@ footer {
     background-color: #525252;    
 }
 
-/*---------------------------------------Special margins/paddings/text */
+/*---------------------------------------Special margins/paddings/text /
 
 h1,
 h2,
@@ -266,7 +281,7 @@ text-transform: uppercase;
     
 }
 
-/*---------------------------------------Hover.css */
+/*---------------------------------------Hover.css /
 
 .hvr-sweep-to-bottom:before {
 background-color: rgba(0, 0, 0, 0.2);
@@ -274,7 +289,7 @@ height: 120px;
 }
 
 
-/*---------------------------------------Three Reasons */
+/*---------------------------------------Three Reasons /
 
 .three-reasons-icon {
     font-size: 26px;
@@ -286,7 +301,7 @@ height: 120px;
 }
 
 
-/*---------------------------------------Personal Info */
+/*---------------------------------------Personal Info /
 
 .personal-info-item {
     margin-bottom: 20px;
@@ -326,7 +341,7 @@ height: 120px;
 }
 
 
-/*---------------------------------------Skills */
+/*---------------------------------------Skills /
 
 .progress {
     position: relative;
@@ -349,7 +364,7 @@ height: 120px;
 }
 
 
-/*---------------------------------------Work Historys */
+/*---------------------------------------Work Historys /
 
 .history-heading {
     color: #fafafa;
@@ -402,7 +417,7 @@ height: 120px;
  }
 
 
- /*---------------------------------------Contact Form */
+ /*---------------------------------------Contact Form /
 
  .contact-heading {
      font-family: "Exo", sans-serif;
@@ -424,7 +439,7 @@ button[type="submit"] {
     background-color: #e84610;
 }
 
-/*---------------------------------------Media Queries */
+/*---------------------------------------Media Queries /
 
 @media(min-width: 992px) {
     .center-form {
@@ -434,3 +449,5 @@ button[type="submit"] {
         max-width: 50%;
     }
 }
+
+-----------------------------*/

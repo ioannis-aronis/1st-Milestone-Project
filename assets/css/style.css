@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:100,200,300,400,500,600,700|Khula:100,200,300,400,500,600,700');
 
 
-
-
 /*---------------------------------------Heading and Navbar*/
 
 .header {
@@ -85,17 +83,42 @@ margin-bottom: 20px;
 }
 
 .vittoria {
-    height: 240px;
-    width: 240px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+height: 240px;
+width: 240px;
+margin-top: 20px;
+margin-bottom: 20px;
 }
 
 /*---------------------------------------Contact Form section */
 
-
+.form-label {
+    position: relative;
+    margin-left: 70%;
 }
-    
+
+ #inputEmail4, #fullname, #phone, #inputAddress {
+    position: relative;
+    margin-left: 25%;
+    margin-bottom: 10px;
+    text-align: center;
+ }
+
+ .form-label-2 {
+    position: relative;
+    margin-left: 25%;    
+}
+
+ #TypeText {
+position: relative;
+margin-left: 11%;
+margin-bottom: 10px;
+text-align: center;
+}
+
+.btn-primary-send {
+    position: relative;
+    margin-left: 25%;
+}
 
 /*---------------------------------------Footer */
 
@@ -104,9 +127,26 @@ margin-bottom: 20px;
     color: #000;
     min-height: 120px;
     margin:20px;
-    text-align: center;
+    text-align: center;    
+}
 
-    
+
+/*---------------------------------------About Me Page*/
+
+.about-me-paragraphs {
+padding-left: 10%;
+padding-right: 10%;   
+color: dimgray;
+font-weight: 200;
+font-size: 24px;
+
+
+/*---------------------------------------Contact Page*/
+
+.container2 {
+    position: relative;
+    text-align: center;
+    font-size: 24px;
 }
 
 /*--------------------------------------UNDER THIS LINE WHATEVER YOU WILL NOT UES YOU MUST ERASE!! */

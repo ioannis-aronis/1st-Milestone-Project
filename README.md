@@ -1,10 +1,15 @@
-# ''**_Storyteller_** '' (LINK TO WEBSITE HOME PAGE PUT HERE!!!)
+# ''**_Storyteller_** ''  https://ioannis-aronis.github.io/1st-Milestone-Project/index.html
 
-## _**''An imaginary CV storytelling website creation''**_
+## _**''An imaginary company's storytelling website creation''**_
 
 My 1st Milestone Project from Code Academy's **_Full Stack Web Developer Program / Course_** 
-, **_User Centric Front-End Development Module_** is about a website that demonstrates the 
-potential capabilities of me as a junior web developer towards potential recruiters and employers 
+, **_User Centric Front-End Development Module_** is about a static website that informs the potential visitors 
+of an imaginary company and its founder (me) and gives some biographical information about the company and its creator,
+places and businesses names that the company has been involved in projects there and with the specific businesses.
+This way, the visitors of the site are given the opportunity to visit other pages that have to do with some of the the company's 
+projects.
+
+The cinstruction of the website (MS1) is a way to demoabilities of me as a junior web developer towards potential recruiters and employers 
 who would like to hire my services as a junior web developer for a freelance project / contract or 
 offer me a full-time job / position to their company's web development team.
 

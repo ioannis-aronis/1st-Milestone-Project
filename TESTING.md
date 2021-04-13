@@ -3,7 +3,7 @@
 Used [W3C HTML validator](https://validator.w3.org/#validate_by_input) website via the direct input path.
 
 1. Index.html validator results.
- ## **INPUT IMAGE HERE !!!!**
+ ## **INPUT IMAGE HERE !!!!** 
 2. Contact.html validator results.
  ## **INPUT IMAGE HERE !!!!**
 3. Work.html validator results.

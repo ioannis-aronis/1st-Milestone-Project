@@ -1,52 +1,60 @@
-# ''**_Storyteller_** ''  https://ioannis-aronis.github.io/1st-Milestone-Project/index.html
+# ''**_Storyteller_** '' 
+### https://ioannis-aronis.github.io/1st-Milestone-Project/index.html
 
-## _**''An imaginary company's storytelling website creation''**_
+
+## _**''An imaginary consultancy company's website''**_
 
 My 1st Milestone Project from Code Academy's **_Full Stack Web Developer Program / Course_** 
 , **_User Centric Front-End Development Module_** is about a static website that informs the potential visitors 
-of an imaginary company and its founder (me) and gives some biographical information about the company and its creator,
-places and businesses names that the company has been involved in projects there and with the specific businesses.
-This way, the visitors of the site are given the opportunity to visit other pages that have to do with some of the the company's 
-projects.
+of an imaginary consultancy company that is specialized in the hospitality and the catering sector as well as
+its founder.
 
-The cinstruction of the website (MS1) is a way to demoabilities of me as a junior web developer towards potential recruiters and employers 
-who would like to hire my services as a junior web developer for a freelance project / contract or 
-offer me a full-time job / position to their company's web development team.
+It provides them with biographical information for both the company and its founder, as well as 
+the places and the clients / businesses names that the company has been involved in by deploying
+ and completing projects there and with for the specific clients / businesses.
 
-I aimed to the creation of a website in which the **_storytelling_** of an Experienced Manager of the 
-Tourist/Hospitality/Catering sector **_unfolds_** in a clear, simple and professional way.
+Also The visitors during their search in the website are given the opportunity to visit other pages
+ that have to do with some of the ompany's projects.
 
-Anyone who navigates to the webpages of the specific website is able to easily find the manager's 
-contact details, the projects he has been involved and/or completed, his professional experience, 
-the previous places he worked as well as each job's name, a brief job description in terms of duties 
-per position, how long (duration) he stayed in each position. Also a completed CV to read or download in 
-a .pdf file format.
+This website is my actual first attempt in the world of code (MS1).
+It is a presentation-1st attempt to implement what I have learned and understood so far from Code Institute's
+ *HTML Essentials*, *CSS Essentials* and *User Centric Front-End Development* modules.
 
-Through the succesful completion of the 1st Milestone Project, whoever entered the above website 
-at any given time should clearly recognise my abilities as a junior web developer.
+I aimed to the creation of a website in which the **_storytelling_** of an imaginary Experienced Manager and founder
+ of his own company that undertakes projects in the Tourist/Hospitality/Catering sector **_unfolds_** in a clear and simple way.
 
-Reasons that potential users / recruiters / employers may be entering the website, are the following:
+Anyone who navigates to the webpages of the specific website is able to easily find contact details, 
+the projects that the company has been involved and/or completed, the places the businesses - clients were based as well as their names
+
+Therefore the visitors of the website should clearly grasp what the imaginary company does.
+
+Reasons that potential users may be entering the website, are the following:
 
 * Users may wish to experience a demonstration of a front-end presentation of one of my projects, first hand.
 * Users may wish to investigate and read through the HTML5, CSS3 and other potential libraries I used for completing this particular project.
-* Users mau wish to understand and see my front-end design perception as a junior web developer.
+* Users may wish to understand and see my front-end design perception as a junior web developer.
 
 # **UX**
 A simple and clean design of a website that demonstrates my abilities on creating 
-a professional website presentation for a professional / expert of another sector 
+a website presentation for an imaginary company and its founder of another sector 
 who wants to amplify his communication with new parnterships and display his work 
 and experience in his sector.
 
 It consists of 5 pages:
-1. A **'home page'** that introduces the user who visit the website to the imaginary manager's projects with images, a brief descriptions and links to quality external videos or other websites. Additionally to the same home page by scrolling further down, the users will find a contact form that they can easily and directly fill it and contact the Manager.
+1. A **'home page'** that introduces the user who visit the website to 3 of the imaginary companny's projects each one with its logo images, 
+   a brief description-moto and a link underneath that when clicked leads to their own websites. Additionally to the same home page by scrolling further down,
+   the visitors / users will find a contact form that they can easily fill it and contact the imaginary company directly.
 
-2. A **'Contact'** page which allows the user to communicate with the imaginary manager so as to give them more information about him and his work or to send an offer or job proposal to him.
+2. A **'Contact'** page which allows the user to immediately communicate with the imaginary company so as to give them more information of their needs 
+   and / or send a job proposal to the company.
 
-3. A **'Work'** page that allows the user to directly go and select links to watvh and read about the imaginary manager's portfolio / projects.
+3. A **'Projects'** page that allows the visitor - user to directly visit the webpages of these completed projects selected from the imaginary companie's portfolio.
+   A minimum display of 3 projects jigsahas been selected.
 
-4. An **'About Me'** page that leads the user directly to a small BIO webpage about the imaginary manager.
+4. An **'About Us'** page that leads the user directly to a small BIO sub webpage about the imaginary company and its founder.
 
-5. A **'CV'** page that gives access to the user to information about the professional experience of the imaginary Manager.
+5. A **'Consultancy Services'** page that gives access to the visitor - user to information about previous projects that the imaginary company 
+   has been involved in as well as what are the offered services the of imaginary company.
 
 
 
@@ -54,40 +62,45 @@ It consists of 5 pages:
 
 
 # **User journey:**
-1 The user begins at the **'Home'** page, firstly seeing the hero image of the imaginary manager smiling while workinmg on a project of his in his laptop. 
-reading the information about what this website is about and what an eco home is.
+
+1. The visitor - user begins at the **'Home'** page. At first on the top-left the visitor - user is seeing the logo and underneath the navbar.
+ Just under that is the hero image of a happy man smiling while workinmg on a project of his in his laptop. On the bottom of the hero image the visitor - user can read a welocme message.
 
                 **IMAGE (LINK 1) MUST BE PUT HERE !!!!!**
 
-2. Scrolling down to the next section of the home page where there are images and brief descriptions and links to 3 of the imaginary manager's projects. 
-With the choice of clicking on the 'Read More' link / button on each one of the 3 projects or scrolling down to the next section.
+2. Scrolling down to the next section of the home page,the visitor - user can see 3 images,to 3 of the imaginary company's projects, their names, a moto of what they actually offer and links. 
+Whenever the visitor - user of clicks on a link / button is redirected to each project's own webpage.  Alternately the visitor - user can scroll further down to the next section of the home page.
 
                 **IMAGE (LINK 2) MUST BE PUT HERE !!!!!**
 
-3. At the next section of the home page is a contact form so as for the user to send his contact detaikls and request or write the subject he wishes the imaginary manager to contact himn for. Under this contact form there is a map with the address of the manager's office tagged on the map.
+3. The website's links open in new tabs for the external websites.
+
+            **IMAGE (LINK 4) MUST BE PUT HERE !!!!!**
+            
+4. At the next section of the home page is a contact form so as for the visitor - user to send his contact details and also info on what information and / or services he / she needs from the imaginary company.
+Undeneathr the contact form there is a map with the address of the company's office tagged on the map.
 
             **IMAGE (LINK 3) MUST BE PUT HERE !!!!!**
 
-4. The website's links open in new tabs for the external websites, the video links play on the page or can go to full screen or be played on the YouTube website.
-
-            **IMAGE (LINK 4) MUST BE PUT HERE !!!!!**
-
-5. The second page is the **'Contact'** page, where there is a contact form for the users to fill in if they would like to contact the imaginary manager, know more information about his projects, or send other comments or messages to him. 
+5. The second page is the **'Contact'** page, where there is a contact form for the users to fill in if they would like to contact the imaginary company, ask for more information about the company's projects or send other comments or messages to the company. 
 
             **IMAGE (LINK 5) MUST BE PUT HERE !!!!!**
 
-6. The third page is the **'Work'** page, where the users are directed to the imaginary manager's portfolio where they can click on links or go to another page by clicking on the navbar.
+6. The third page is the **'Projects'** page, where the visitors - users are directed to the imaginary company's portfolio (a minimum of 3 projects is displayed at the specific webpage) where they can click on links and redirect to the projects individual webpages or go to another page by clicking on the navbar.
 
             **IMAGE (LINK 5) MUST BE PUT HERE !!!!!**
 
-7. The fourth page is the **'About Me'** page, where the users can read a brief BIO of the imaginary manager or go to another page by clicking on the navbar.
+7. The fourth page is the **'About Us'** page, where the users can read a brief BIO of the imaginary company and its founderr or go to another page by clicking on the navbar.
 
             **IMAGE (LINK 5) MUST BE PUT HERE !!!!!**
 
-8. The fifth page is the **'CV'** page, where the users can read the CV of the imaginary manager or go to another page by clicking on the navbar.
+8. The fifth page is the **'Consultancy Services'** page, where the users can read information about previous projects of the imaginary company and of its offered services or go to another page by clicking on the navbar.
 
-*The users also can click on the **Linked In link or go to another page** by clicking on the navbar at all times despite of which page they are at any specific time.*
+            **IMAGE (LINK 5) MUST BE PUT HERE !!!!!**
 
+9. On the footer the visitors - users can clearly read the phone of the imaginary company's offices, the copyright sign and info and links to **social media** that lead to the imaginary company's profiles.
+
+            **IMAGE (LINK 5) MUST BE PUT HERE !!!!!**
 
 
 
@@ -101,28 +114,28 @@ With the choice of clicking on the 'Read More' link / button on each one of the 
 
 * As a user, I want to visit **web responsive websites** which literally translates to *''friendly and easy use and access in all devices formats, desktop, tablet or mobile.
 
-* As a user, I want to create **''easy to use and easy to access''** find out what eco homes are.
+* As a user, I want to visit **''easy to use and easy to access''** websites in terms of filling in information.
 
 * As a user, I want to **move to subwebpages of the website** rather fast and easy.
 
-* As a user, I want to **watch a video of a project of the imaginary manager** to grasp an idea of his work.
+* As a user, I want to **click on a link of a project of the imaginary company** to grasp an idea of their work.
 
-* As a user, I want to find **more information about the imaginary manager's working history.**
+* As a user, I want to find **more information about the imaginary company and its founder.**
 
 The user’s goals can be met via this website as he interacts and uses a clear, simple and elegant web responsive website.
 
-As this project (MS1) is basically my first project ever, it was important for me to keep it simple looking and in content too as to not overwhelm a first-time user (and also myself with information not clearly coprehensive to me as a student yet).
+As this project (MS1) is basically my first project ever, it was important for me to keep it simple looking and in content too as to not overwhelm a first-time visitor - user (and also myself with information not clearly coprehensive to me, as a student, yet).
 
 With the navbar fixed on top, it is easy for users to navigate and be able to choose to go / move to another subwebpage of the same website wherever they are on the current page at any given time.
 
-All links open into a new tab so the user will not forget *'Storyteller'* website and can go back to it very easy.
+All links open into a new tab so the user will not forget *'Storyteller'* website and can go back to it very easy by clikcing on iys own individual "tab" .
 
 
 
 
 
 # **Wireframes**
-I used [Balsamiq](https://balsamiq.com/) to create wireframes **(WIREFRAMES LINKS HERE!!!)** in desktop, tablet and phone view.
+I used [Balsamiq](https://balsamiq.com/) to create wireframes **(WIREFRAMES .pdf LINKS HERE!!!)** in desktop, tablet and phone view.
 
 
 

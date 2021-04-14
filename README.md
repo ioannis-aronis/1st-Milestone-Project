@@ -203,7 +203,9 @@ At the bottom of the page is a grey container box that separates the webpage las
 Just underneath in the footer section the phone of the imaginary manager is written and under that the copyright information is written.
 
 # **Features Left to Implement**
-* Active Reponsiveness in Mobile and Tablet Views.
+* Fix bugs in Active Reponsiveness in Home Page (index.html) and Contact_Page (contact.html) in Mobile and Tablet Views.
+
+* Fix bug in navbar appearance in Mobile and Tablet Views.
 
 * To be able to actually submit the forms and give an email confirmation that the information was received and informing the user that the imaginary manager's office will contact them to arrange an online meeting as soon as possible.
 
